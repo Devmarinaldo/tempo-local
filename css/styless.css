@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+    .banner{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        display: flex;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center; /* esses tres itens centralizam perfeitament*/
+    height: 100vh; /* vh igual a altura*/
+    width: 100vw; /* vw igual a largura*/
+    background-size: 100%;
+}
+
+div {
+    background-color: black;
+    width: 95%;
+    max-width: 400px;
+    opacity: 0.8;
+    padding: 17px;
+    border-radius: 30px;
+}
+
+.cidade{
+    color: white;
+    margin-top: 30px;
+}
+.graus{
+    color: white;
+    margin-top: 30px;
+}
+.ceu{
+    color: white;
+    margin-top: 30px;
+}
+.clima{
+    color: white;
+    margin-top: 30px;
+}
+.caixamenor{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
