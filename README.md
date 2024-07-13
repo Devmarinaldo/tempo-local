@@ -1,9 +1,13 @@
 Nesse projeto ao digitar a cidade mostrara os graus, como esta o Céu se esta limpo junto com a umidade
 
 Foram usados as habilidades
+
 *html
+
 *css
+
 *javascript
+
 *api
 
 ![image](https://github.com/user-attachments/assets/0b03496a-848b-43ab-9bec-e244c667579b)
